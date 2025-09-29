@@ -18,5 +18,12 @@
     "role": "student",
     "finger_id": 5,
     "year": "3RD YEAR"
+  },
+  {
+    "id": 4,
+    "name": "HYGQWDS",
+    "role": "student",
+    "finger_id": 2,
+    "year": "Assa"
   }
 ]
