@@ -5,5 +5,11 @@
     "role": "student",
     "finger_id": 45,
     "year": "1st YEAR"
+  },
+  {
+    "id": 2,
+    "name": "IAN",
+    "role": "teacher",
+    "finger_id": 4
   }
 ]
