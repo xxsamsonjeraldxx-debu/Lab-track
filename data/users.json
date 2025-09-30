@@ -5,5 +5,11 @@
     "role": "student",
     "finger_id": 35,
     "year": "1ST YEAR"
+  },
+  {
+    "id": 4,
+    "name": "MR. IAN TITUS F. RAMONES",
+    "role": "teacher",
+    "finger_id": 5
   }
 ]
