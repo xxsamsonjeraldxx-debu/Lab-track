@@ -18,5 +18,11 @@
     "role": "student",
     "finger_id": 40,
     "year": "3RD YEAR"
+  },
+  {
+    "id": 6,
+    "name": "MS.DYCYN ALVARO",
+    "role": "teacher",
+    "finger_id": 10
   }
 ]
