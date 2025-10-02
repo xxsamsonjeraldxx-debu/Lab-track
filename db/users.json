@@ -10,7 +10,8 @@
     "name": "JUVAN",
     "role": "student",
     "finger_id": 40,
-    "year": "3RD YEAR"
+    "year": "3RD YEAR",
+    "fingerId": 5
   },
   {
     "id": 6,
