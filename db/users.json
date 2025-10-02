@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "id": 3,
+    "name": "HAROLD",
+    "role": "student",
+    "finger_id": 35,
+    "year": "1ST YEAR"
+  },
+  {
+    "id": 4,
+    "name": "MR. IAN TITUS F. RAMONES",
+    "role": "teacher",
+    "finger_id": 5
+  },
+  {
+    "id": 5,
+    "name": "JUVAN",
+    "role": "student",
+    "finger_id": 40,
+    "year": "3RD YEAR"
+  },
+  {
+    "id": 6,
+    "name": "MS.DYCYN ALVARO",
+    "role": "teacher",
+    "finger_id": 10
+  }
+]
